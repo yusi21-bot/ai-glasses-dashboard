@@ -1,0 +1,12 @@
+<svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="640" rx="40" fill="#F8FAFC"/>
+  <rect x="80" y="80" width="800" height="480" rx="32" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M272 329C272 286.475 306.475 252 349 252H611C653.525 252 688 286.475 688 329V329C688 371.525 653.525 406 611 406H349C306.475 406 272 371.525 272 329V329Z" stroke="#CBD5E1" stroke-width="14"/>
+  <path d="M349 252L264 224C230.5 213 194 231 182 264L163 316" stroke="#CBD5E1" stroke-width="14" stroke-linecap="round"/>
+  <path d="M611 252L696 224C729.5 213 766 231 778 264L797 316" stroke="#CBD5E1" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="349" cy="329" r="56" fill="#EEF2FF" stroke="#818CF8" stroke-width="10"/>
+  <circle cx="611" cy="329" r="56" fill="#F0FDFA" stroke="#2DD4BF" stroke-width="10"/>
+  <path d="M429 329H531" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  <text x="480" y="478" text-anchor="middle" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">官方产品图待补充</text>
+  <text x="480" y="516" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Verified image placeholder</text>
+</svg>

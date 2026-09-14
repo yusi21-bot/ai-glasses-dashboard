@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@keyframes scenario-slide-fade {
+  0% {
+    opacity: 0;
+  }
+  7% {
+    opacity: 1;
+  }
+  32% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.scenario-slide {
+  animation-name: scenario-slide-fade;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  opacity: 0;
+}
