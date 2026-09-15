@@ -6,8 +6,9 @@
 
 ## 在线体验
 
-- **Live Demo：** GitHub Pages 地址将在首次部署后补充
-- **完整报告：** 网站“项目说明”页提供 PDF 入口
+- **Live Demo：** https://yusi21-bot.github.io/ai-glasses-dashboard/
+- **完整报告：** https://yusi21-bot.github.io/ai-glasses-dashboard/ai-glasses-research-report.pdf
+- **源代码：** https://github.com/yusi21-bot/ai-glasses-dashboard
 - **数据快照：** 2026-06-26 至 2026-07-01
 
 ## 项目背景
