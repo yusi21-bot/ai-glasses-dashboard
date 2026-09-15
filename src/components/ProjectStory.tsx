@@ -3,7 +3,6 @@ import {
   ArrowRight,
   Boxes,
   Braces,
-  FileDown,
   FileSearch,
   GitCompareArrows,
   Layers3,
@@ -24,7 +23,7 @@ const workflow = [
   ['03', '统一数据口径', '拆开品牌、产品线、款式和配件，建立可复用的产品字段。'],
   ['04', '设计阅读路径', '按结论、浏览、比较和图谱四种任务组织信息。'],
   ['05', '实现交互界面', '用 React 与 TypeScript 构建筛选、详情、比较和图谱组件。'],
-  ['06', '检查与交付', '核对资源、缺失值和展示逻辑，同时保留在线与离线版本。'],
+  ['06', '检查与交付', '核对资源、缺失值和展示逻辑，并完成静态构建与公开部署。'],
 ];
 
 const modules = [
@@ -81,14 +80,6 @@ export default function ProjectStory({ onExplore, onBrowse }: ProjectStoryProps)
               >
                 浏览产品目录
               </button>
-              <a
-                href={`${import.meta.env.BASE_URL}ai-glasses-research-report.pdf`}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/5 px-4 py-2.5 text-xs font-extrabold text-white transition hover:bg-white/10"
-              >
-                完整报告 PDF <FileDown className="h-4 w-4" />
-              </a>
             </div>
           </div>
 

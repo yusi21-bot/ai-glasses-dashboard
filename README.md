@@ -7,7 +7,6 @@
 ## 在线体验
 
 - **Live Demo：** https://yusi21-bot.github.io/ai-glasses-dashboard/
-- **完整报告：** https://yusi21-bot.github.io/ai-glasses-dashboard/ai-glasses-research-report.pdf
 - **源代码：** https://github.com/yusi21-bot/ai-glasses-dashboard
 - **数据快照：** 2026-06-26 至 2026-07-01
 
@@ -74,10 +73,9 @@ flowchart LR
 - 概要负责建立认知；
 - 筛选负责缩小范围；
 - 对比负责支持判断；
-- 详情和来源负责保留证据；
-- PDF 则继续承担归档和完整阅读。
+- 详情和来源负责保留证据与核查路径。
 
-这种“双交付”方式兼顾了访问效率与研究完整性。
+这种 Web 交付方式降低了访问门槛，同时保留研究信息的层次与核查路径。
 
 ## 技术实现
 
